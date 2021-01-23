@@ -1,0 +1,24 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.addTask {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.fildsetTask {
+  width: 500px;
+  border-radius: 25px;
+}
+
+.buttonTask {
+  width: 85px;
+  margin-top: 15px;
+}
